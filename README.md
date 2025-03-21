@@ -1,4 +1,4 @@
-# C programming  contest✨✨
+# C Programming  Contest✨✨
 
 We are participating in a contest.
 All the codes related to the contest will be updated here.
