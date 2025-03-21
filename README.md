@@ -1,4 +1,4 @@
-# Getting-Started
+# Getting-Started-with-C
 
 We are participating in a competition.
 All the codes related to the competition will be updated here.
